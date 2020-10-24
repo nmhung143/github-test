@@ -221,3 +221,5 @@ enum ids{_BEGIN,_CAI_DAT,_NHIET_DO,_DIEN_AP,_THONG_TIN,_MODULE_1,_MODULE_2,_MODU
                   }
                }
             }
+
+// day la comment de test
